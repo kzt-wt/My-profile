@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning "python"
 -  ✔ My kaggle profile is here→"https://www.kaggle.com/kazkidera"
 
-[![kaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzt-wt&show_icons=true&theme=highcontrast&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)](https://github.com/anuraghazra/github-readme-stats)
+[![kaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzt-wt&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kzt-wt&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
