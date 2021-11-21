@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kzt-wt
-- 👀 I’m interested in "AI"
+- 👀 I’m interested in "Machine Learning"
 - 🌱 I’m currently learning "python"
-- 📫 How to reach me ...
 -  ✔ My kaggle profile is here→"https://www.kaggle.com/kazkidera"
 
 <!---
