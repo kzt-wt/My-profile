@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kzt-wt
 - 👀 I’m interested in "Machine Learning"
 - 🌱 I’m currently learning "python"
+- :memo:This is my blog→"https://kzt-blog.netlify.app/"
 -  ✔ My kaggle profile is here→"https://www.kaggle.com/kazkidera"
 
 [![kaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzt-wt&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
