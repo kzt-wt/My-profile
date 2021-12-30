@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning "python"
 - :memo:This is my blog→"https://kzt-blog.netlify.app/"
 -  ✔ My kaggle profile is here→"https://www.kaggle.com/kazkidera"
-<p align="left">
-  <a href="https://github.com/kzt-wt"><img alt="GitHub" height="32" width="32" src=""></a>
-</p>
+
 [![kaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzt-wt&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kzt-wt&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
