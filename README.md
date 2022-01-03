@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kzt-wt
 - 👀 I’m interested in "Machine Learning"
 - 🌱 I’m currently learning "python"
-- :memo:This is my blog→"https://kzt-blog.netlify.app/"
+- This is my blog→"https://kzt-blog.netlify.app/"
 
 [<img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=popout">](https://github.com/kzt-wt)
 [<img src="https://img.shields.io/badge/-Kaggle-FFFFFF.svg?logo=kaggle&style=popout">](https://www.kaggle.com/kztwt10)
