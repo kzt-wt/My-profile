@@ -6,7 +6,7 @@
 [<img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=popout">](https://github.com/kzt-wt)
 [<img src="https://img.shields.io/badge/-Kaggle-FFFFFF.svg?logo=kaggle&style=popout">](https://www.kaggle.com/kztwt10)
 
-[![kaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzt-wt&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![kaz-wt's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzt-wt&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kzt-wt&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
