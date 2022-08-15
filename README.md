@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kzt-wt
+👋 Hi, I’m @kzt-wt
 <!---- 👀 I’m interested in "Machine Learning"
 - 🌱 I’m currently learning "python"
 - This is my blog→"https://kzt-wt-blog.netlify.app/"--->
